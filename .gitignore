@@ -1,0 +1,14 @@
+*.json
+bin
+obj
+FakesAssemblies
+/TestResults
+*.DS_Store
+/packages
+*.suo
+*.dtbcache
+*.v2
+*.lock
+*.ide
+sqlite3
+*.user
